@@ -68,7 +68,8 @@ Investigated patterns in:
 ```
 
 ## Next Steps:
-- Build predictive model for match outcomes (win/draw/loss prediction)
+- Build predictive model for match outcomes (win/draw/loss prediction).
+- Compare models to find the best model that fits the dataset.
 
 ## Insights for Football Fans:
 This analysis reveals that while elite clubs like Barcelona and Bayern dominate across contexts, **home advantage remains a significant factor** in European football. 
